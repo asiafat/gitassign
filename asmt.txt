@@ -1,0 +1,10 @@
+mkdir project
+cd project 
+touch index.html
+git status
+git add index.html
+git commit
+echo hello index.html
+git status
+git add .
+git commit
